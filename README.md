@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="AyurAI Banner" src="your-custom-banner-url-here" />
+  <img width="1200" height="475" src="https://yourhost.com/images/ayurai-banner.png" alt="AyurAI Banner" />
 </div>
 
 # Run and Deploy AyurAI
