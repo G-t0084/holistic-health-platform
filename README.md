@@ -1,20 +1,33 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="AyurAI Banner" src="your-custom-banner-url-here" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and Deploy AyurAI
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1dndkoYQANYEY_5bv_soFo2Rh3lUIBZrZ
+This app blends ancient Ayurvedic wisdom with modern AI to offer personalized health insights.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js
 
-
-1. Install dependencies:
+1. Install dependencies:  
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+
+2. Set your AI API key in [_.env.local_](.env.local):  
+   `AYURAI_API_KEY=your-key-here`
+
+3. Start the development server:  
    `npm run dev`
+
+## Features
+
+- Personalized Prakriti analysis
+- Skin texture insights via image upload
+- Holistic lifestyle planner
+- Chat and voice assistant for health guidance
+
+## Powered by
+
+AyurAI Intelligence (Gemini backend securely integrated)
+
+
