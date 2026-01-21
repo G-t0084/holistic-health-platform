@@ -1,0 +1,8 @@
+{
+  "name": "AyurAI - Holistic Health Platform",
+  "description": "A sophisticated AI-powered health platform bridging modern clinical medicine with traditional Ayurvedic wisdom. Features longitudinal comparative assessments, integrated health assistance, and vital tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
